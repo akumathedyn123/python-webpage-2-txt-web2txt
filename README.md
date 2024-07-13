@@ -48,3 +48,9 @@ This project is licensed under the MIT License. Refer to the `LICENSE` file for 
 
 - The script creates a directory named `output_dir` (you can modify this name) to store extracted text files.
 - Each file is named after the corresponding webpage URL, ensuring traceability.
+
+
+
+# Warning
+
+## This script is intended for educational purposes only. It is designed to help you learn about scripting concepts and explore programming possibilities. It is not intended for production use or any situation where unintended consequences could have a negative impact or any legal issues.  The author is not responsible for any damages or hazards caused by its use. And, know about local laws.
