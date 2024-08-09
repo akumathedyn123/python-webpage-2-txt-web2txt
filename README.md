@@ -10,7 +10,7 @@ This Python script extracts text content from webpages and saves it to separate 
 * **No Warranties:** This script is provided "as is" without any express or implied warranties. The author disclaims any liability for any damages arising from its use.
 
 **License**
-
+ 
 This project is licensed under the MIT License. Refer to the `LICENSE` file for the full terms.
 
 **Installation**
