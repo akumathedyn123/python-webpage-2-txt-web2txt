@@ -1,7 +1,7 @@
 ## python-webpage-2-txt-web2txt ##
 
 **Introduction**
-
+ 
 This Python script extracts text content from webpages and saves it to separate files. It utilizes libraries like `requests` and `BeautifulSoup` for efficient web scraping and HTML parsing.
 
 **Disclaimer**
