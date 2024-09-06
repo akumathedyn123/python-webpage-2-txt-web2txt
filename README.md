@@ -2,7 +2,7 @@
 
 **Introduction**
  
-This Python script extracts text content from webpages and saves it to separate files. It utilizes libraries like `requests` and `BeautifulSoup` for efficient web scraping and HTML parsing.
+This Python script extracts text content from webpages and saves it to separate files. It utilizes libraries like `requests` and `BeautifulSoup` for efficient web scraping and HTML parsing. Useful to create datasheet for ML or AI Training.
 
 **Disclaimer**
 
